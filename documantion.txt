@@ -5,6 +5,7 @@ font-family: 'Poppins', sans-serif;
 color-primary:#53feda;
 color-primary-2:#2380ff;
 
+next 4 day relize one deisng
 
 
 hero
